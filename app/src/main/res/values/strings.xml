@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">TUSHANTTECH</string>
+    <string name="packagename">net.tushanttech.wordpress.app</string>
+    <string name="Ownername">Tushant Bhatia</string>
+
+
+    <!-- TODO EDIT Main Activity Stuffs -->
+    <string name="AddressID">Ctaegories</string>
+    <string name="MainID">Home</string>
+    <string name="Page1ID">All Posts</string>
+    <string name="Page2ID">Hollywood</string>
+    <string name="Page3ID">Bollywood</string>
+    <string name="Page4ID">EBooks</string>
+    <string name="Page5ID">Modded Apps</string>
+    <string name="Page6ID">PC Softwares</string>
+    <string name="Page7ID">Github</string>
+    <string name="MainWebsite">https://tushanttech.wordpress.com/</string>
+    <string name="Page1">https://tushanttech.wordpress.com/posts/</string>
+    <string name="Page2">https://tushanttech.wordpress.com/2017/06/08/hollywoodmovies/</string>
+    <string name="Page3">https://tushanttech.wordpress.com/2017/06/08/bollywoodmovies/</string>
+    <string name="Page4">https://tushanttech.wordpress.com/2017/07/01/ebooks-collection/</string>
+    <string name="Page5">https://tushanttech.wordpress.com/2017/07/11/android-zone/</string>
+    <string name="Page6">https://tushanttech.wordpress.com/2017/06/08/blog-post-title-2/</string>
+    <string name="YoutubeLink">https://www.youtube.com/user/Tushantbhatia</string>
+    Set a Page7 for not having youtube link
+    <string name="Page7">https://github.com/tushantbhatia</string>
+
+    <string name="EmailID">tushantbhatia@gmail.com</string>
+
+    <string name="InterstitialAds_ADBMOD">ca-app-pub-7154796181142172~6214662361</string>
+    <string name="interstitial_full_screen">ca-app-pub-7154796181142172/7495954448</string>
+
+    <!-- TODO EDIT Settings Preference THIS -->
+
+<string name="aboutdialog">
+    <b>KP\'S TV App: </b>\n\n
+    Made with Android Studio by TushantBhatia\n
+    Special Thanks to <i>Coding Blocks</i>\n
+    Without which I couldn\'t do it all alone\n\n
+    <i>App Version: 1.0\n
+     Copyright TB @2017</i>
+</string>
+
+    <string name="changelog">
+    <b>V1.0 (06/07/2017): </b>\n
+        -Initial Release\n
+    -Public Commit on Github\n\n
+    </string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">Tushant Bhatia</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>

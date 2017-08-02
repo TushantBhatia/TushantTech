@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\404091f00984b06103a21467ecf5f9eec2e03de9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_c1b724dde23eec43563bbd4a7ed1806a04ee64fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\b6657d0610dd054178bd28f1ccf4e0d6421e4f21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_d43eff720d6b2fc725058f6b03ea43404b449a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\58189c7fb3bdc1b7672bd040f7378c68198afc84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_604829dd75923070c3280fcd18bdcd5d479f6e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\46fd7e7c3e7606f9e68b9faf164cce0a906f2649\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_1ff6881d81cfedab657764766df9cf8c172ae84f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\60af884e79cd4c0d870668a73c5538ae1ef52e78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_aaebfeee457abc8e669a993be8bf76ff1f05fc15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\7dc25d2bb21170217849257657076b9e59dc5d63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_2946c079ceeeba71a63f123808ff4f65000395f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\f69cd244d39296dd45e4be285f924d74845bb5e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_9910d14a56699c51461dc8b16d6cffdf7b23fb04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\087fb7e9a8d08931f0b70e6b72a04634635e6ffa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_20bae62f0a3cbd0a45768c31678328dc0c7abdb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_39db9a3fcd21cdbaf97ae085defc9ffc4deedeaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\273be3bd7398ff414d3f570a9adf0057f66ca225\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_438ff93a651a22d63aee082132abdba693e5a25f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\444daaef828f071ac76de0be7a796f4de1731ec1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_c5b3c5011b3409036926b2fa3f8794be343e225e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\88da5f74d49107685931581217ede6b96a9c80a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_24dfb52b68d9f7920fa3668254e635cca8b384ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c21a6da4c8446b6c5c186bf1d4e5d2ae3a8ba807">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a4af101d47f8bcac43fda1046b4e9a60503e7370\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\8929b79074b499d7a447f8d2642e959569651631\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_188738d619598805c3777bc1e76eddce1a761369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\a9eeff9adbd4f6766ed7b95d6675efd01bd272f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_fe09975e6e424472a604a30adea5152aeff5a331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\20ba0bbfe0679d8cbd4d231359ee3b4d0084b734\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_2075c053f5422a8a031140cfe01bf2a10554dd4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\44e4508a35e5746750ef6e51564c54a41f982b0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_0004894f1790586cdc06069d60f8c05b183d78aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\4912a914a6e8ea423d329d0f99aa7a958d90a7a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_de5d06824315bcc95c1a31d3a7762f61f3a7aadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\b66ea161e0338b58a3196ff6a6ce155eeb5c6037\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_785e0564e5d8a2cf0ce0414fbf3f22e47b2396bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\5af7701a9d49930cb9d550ba9e43b880b0bd6f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_a3cba1c7d78695b712f9caf2b18c5b668f4e72bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\53eabca460d73d29319510dd7c08491aea50178d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_af29dcec4ace718a8413e7eb9182db741e014123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\d70c4885a6a12f1c7a84e6ecd209840bf0a62387\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_9957020ce5c2a59929f387be8554d1b7d0d0b72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\bc49e8344d87bfe0ac49752afd337d35bd675b70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_bb02b5cc33fd84cdfaec3937d26060bbb0e113d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\5c779e5f2017a9a40c4bf19fb33505fa71bb33bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_bc3923ab0a79f289e4f76e5dce1bb8ec033d42cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\b20f359dfc920a475fdf98e79f8b882679b926e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_ea4439498986c8a54f5d0de22df92f241d9cf79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\fe316ec9cb544c10a2844fd3188a90bf646345c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_7d1fb30f25bd15248caa9fdd1e8c62e3717d8689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\6a7b906f2d66635a247c881572169bb393c8a84b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_1474f81215514bc0b2f68698ca9bb5c8484a1e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d08f275cf3bbd3404864cb6d6011b453dd464795.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c45ccee398219d2146ddfb45c9967f90362035e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\fe61dd01178645b467e712de3b9c116ebe4e68eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_4f4a9398f4dcbee643294d1fb166b0b1e0587c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tusha\.android\build-cache\0bdca8c32002bfac505e2e015ffbd52d46bc29a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\tusha\AndroidStudioProjects\Responsive-Professional-Website-App-master\app\build\intermediates\pre-dexed\debug\classes_ef5fd8e49db0dc2764d27182595306bde6d3b699.jar" />
+    </item>
+
+</items>

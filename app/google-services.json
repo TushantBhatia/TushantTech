@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626264357686",
+    "firebase_url": "https://tushanttech.firebaseio.com",
+    "project_id": "tushanttech",
+    "storage_bucket": "tushanttech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626264357686:android:5c735ede08b7e04a",
+        "android_client_info": {
+          "package_name": "tushant.tushanttech.wordpress.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626264357686-cjdbb9nb4drfmlhnqgbtik5qh5enn5f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrwT23P_s0uRW456eeKI5Mtmrj9BM5Uk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
